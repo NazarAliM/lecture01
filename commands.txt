@@ -4,3 +4,5 @@ git add hello.html
 git commit -m "Added Hello.html"
 git status
 git push
+
+git pull
