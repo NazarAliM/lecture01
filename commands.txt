@@ -1,0 +1,5 @@
+touch hello.html
+code .
+git add hello.html
+git commit -m "Added Hello.html"
+git status
